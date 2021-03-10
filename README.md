@@ -1,12 +1,5 @@
 ### 👋 Opa eu sou o Cl4upy. Essa é minha frase especial :) 
 
-<a target="_blank" href="https://www.youtube.com/channel/UCubtGBQ_RxJtCKsHGURdpWg">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/>
-</a>
-
-<a target="_blank" href="https://discord.gg/mqjBKVp9a6">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
-
 </br>
 
 ---
